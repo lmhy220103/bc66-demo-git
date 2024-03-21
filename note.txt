@@ -33,9 +33,12 @@ git add -A
 git commit -m " nội dung "
 git push -u origin master (lần đàu) / git push ( lần 2 trở đi)
 
+*** commit trước khi tạo nhánh, chuyển nhánh 
 
 * Tạo nhánh (khi code chức năng mới/fix bug):
 git checkout -b name
+
+*Chuyển nhánh : git checkout name
 
 
 https://ohmyz.sh/
